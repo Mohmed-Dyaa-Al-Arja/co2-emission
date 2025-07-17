@@ -1,0 +1,4 @@
+Best CV RMSE : 0.1278
+MAE  (test)  : 0.0942
+RMSE (test)  : 0.1936
+R²   (test)  : 0.8434
