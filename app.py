@@ -4,6 +4,7 @@ import numpy as np
 import plotly.express as px
 from catboost import CatBoostRegressor
 import warnings
+import plotly.express as px
 warnings.filterwarnings("ignore")
 
 MODEL_PATH = "final_cat_model.cbm"
